@@ -1,6 +1,6 @@
 {
   "name": "git-controller",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Node.js wrapper for the Git CLI, extened version of gitty.git(https://github.com/gordonwritescode/gitty)",
   "main": "index",
   "dependencies": {},
